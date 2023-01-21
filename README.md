@@ -3,7 +3,7 @@
 
 <img src="./screenshot/demo-1.png" alt="kwt" width="500"/>
 
-使用 TensorFlow Speech Command 資料集訓練英文 0~9 聲音數字辨識。
+使用 TensorFlow Speech Command 資料集訓練英文 0~9 聲音數字辨識，並採用 Transformer 模型架構訓練。
 ![](./screenshot/demo-2.png)
 
 
