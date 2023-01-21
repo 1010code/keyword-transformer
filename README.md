@@ -8,10 +8,9 @@
 
 ## Example
 ### 模型訓練
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/1010code/keyword-transformer/blob/main/keyword_transformer.ipynb)
 
 ### ONNX Runtime 模型推論(python)
-[![Open In Colab](https://github.com/1010code/keyword-transformer/blob/main/onnx_inference.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1010code/keyword-transformer/blob/main/onnx_inference.ipynb)
 
 ### ONNX Runtime 模型推論(C++)
 
